@@ -38,12 +38,12 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "Lucky" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "94741410815" ,
             "required": true
              },
        
